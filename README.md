@@ -4,7 +4,9 @@
 
 ![Black Dashboard PRO Django - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-black-pro/master/media/django-dashboard-black-pro-intro.gif)
 
-Commercial product - **Django Dashboard** starter project - features:
+<br />
+
+> Commercial product - **Django Dashboard** starter project - features:
 
 - UI Kit: **Black Dashboard** (PRO Version) provided by **[Creative-Tim](https://www.creative-tim.com/)**
 - [Codebase](https://github.com/app-generator/boilerplate-code-django-dashboard) version v1.0.2 - provided by **[AppSeed](https://appseed.us/)**

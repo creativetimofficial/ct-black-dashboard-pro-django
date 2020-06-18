@@ -34,7 +34,7 @@
 
 ## Demo
 
-> To authenticate use the default credentials ** *test / ApS12_ZZs8* ** or create a new user on the [registration page](https://creativetim-django-dashboard-black-pro.appseed.us/register/).
+> To authenticate use the default credentials ***test / ApS12_ZZs8*** or create a new user on the [registration page](https://creativetim-django-dashboard-black-pro.appseed.us/register/).
 
 - **Black Dashboard PRO Django** [Login Page](https://creativetim-django-dashboard-black-pro.appseed.us/login/)
 

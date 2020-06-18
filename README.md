@@ -1,13 +1,13 @@
 # [Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard,%20a%20free%20Material%20Bootstrap%204%20Admin%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2Lyat1Y%20%23bootstrap%20%23material%20%23design%20%23developers%20%23freebie%20%20via%20%40CreativeTim)
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+ ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Black Dashboard PRO Django - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-black-pro/master/media/django-dashboard-black-pro-intro.gif)
 
 Commercial product - **Django Dashboard** starter project - features:
 
 - UI Kit: **Black Dashboard** (PRO Version) provided by **[Creative-Tim](https://www.creative-tim.com/)**
-- [Codebase](https://github.com/app-generator/boilerplate-code-django-dashboard) version v1.0.2 - provided by **[AppSeed](https://appseed.us/)** 
+- [Codebase](https://github.com/app-generator/boilerplate-code-django-dashboard) version v1.0.2 - provided by **[AppSeed](https://appseed.us/)**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
@@ -32,7 +32,7 @@ Commercial product - **Django Dashboard** starter project - features:
 
 ## Demo
 
-> To authenticate use the default credentials ** *test/ApS12_ZZs8* ** or create your own user by accesing the [registration page](https://creativetim-django-dashboard-black-pro.appseed.us/register/).
+> To authenticate use the default credentials ** *test / ApS12_ZZs8* ** or create a new user on the [registration page](https://creativetim-django-dashboard-black-pro.appseed.us/register/).
 
 - **Black Dashboard PRO Django** [Login Page](https://creativetim-django-dashboard-black-pro.appseed.us/login/)
 
@@ -183,19 +183,16 @@ If you have questions or need help integrating the product please [contact us](h
 - [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
-##### Social Media
+<br />
 
-Twitter: <https://twitter.com/CreativeTim>
+## Social Media
 
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
+- Twitter: <https://twitter.com/CreativeTim>
+- Facebook: <https://www.facebook.com/CreativeTim>
+- Dribbble: <https://dribbble.com/creativetim>
+- Instagram: <https://www.instagram.com/CreativeTimOfficial>
 
 <br />
 
 ---
-# [Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) - Provided by [Creative Tim](https://www.creative-tim.com/) and [AppSeed](https://appseed.us)
+[Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) - Provided by [Creative Tim](https://www.creative-tim.com/) and [AppSeed](https://appseed.us)

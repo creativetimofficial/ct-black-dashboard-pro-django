@@ -2,7 +2,7 @@
 
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Black Dashboard PRO Django - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-black-pro/master/media/django-dashboard-black-pro-intro.gif)
+![Black Dashboard PRO Django - Admin Dashboard coded in Django.](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/blob/master/media/black-dashboard-pro-django-intro.gif)
 
 <br />
 
@@ -161,7 +161,7 @@ We use GitHub Issues as the official bug tracker for the **Black Dashboard PRO D
 
 1. Make sure that you are using the latest version of the **Black Dashboard PRO Django**. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+3. Some issues may be browser-specific, so specifying in what browser you encountered the issue might help.
 
 <br />
 

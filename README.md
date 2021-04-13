@@ -2,18 +2,18 @@
 
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Black Dashboard PRO Django - Admin Dashboard coded in Django.](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/blob/master/media/black-dashboard-pro-django-intro.gif)
+**[Django Template](https://www.creative-tim.com/templates/django)** crafted on top of **Black Dashboard PRO**, a premium Bootstrap 4 design. Start your development with a modern, dark-themed Bootstrap 4 Admin template for **Django**. It features a huge number of components built to fit together and look fantastic. If you want to code faster, with a smooth workflow, then you should try this template carefully developed with Django, a well-known Python Framework. **Django codebase** is crafted using a simple, modular structure that follows the best practices and provides authentication, database configuration, and deployment scripts for Docker and Gunicorn/Nginx stack. 
 
-<br />
-
-> Commercial product - **Django Dashboard** starter project - features:
-
-- UI Kit: **Black Dashboard** (PRO Version) provided by **[Creative-Tim](https://www.creative-tim.com/)**
-- [Codebase](https://github.com/app-generator/boilerplate-code-django-dashboard) version v1.0.2 - provided by **[AppSeed](https://appseed.us/)**
+- UI Kit: **Black Dashboard** (PRO Version)
+- Django Codebase - provided by **[AppSeed](https://appseed.us/)**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
+
+<br />
+
+![Black Dashboard PRO Django - Admin Dashboard coded in Django.](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/blob/master/media/black-dashboard-pro-django-intro.gif)
 
 <br />
 
@@ -34,7 +34,7 @@
 
 ## Demo
 
-> To authenticate use the default credentials ***test / ApS12_ZZs8*** or create a new user on the [registration page](https://creativetim-django-dashboard-black-pro.appseed.us/register/).
+> To authenticate use the default credentials ***test / ApS12_ZZs8*** or create a new user on the **registration page**.
 
 - **Black Dashboard PRO Django** [Login Page](https://www.creative-tim.com/live/black-dashboard-pro-django)
 

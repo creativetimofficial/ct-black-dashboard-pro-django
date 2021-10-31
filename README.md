@@ -5,7 +5,7 @@
 **[Django Template](https://www.creative-tim.com/templates/django)** crafted on top of **Black Dashboard PRO**, a premium Bootstrap 4 design. Start your development with a modern, dark-themed Bootstrap 4 Admin template for **Django**. It features a huge number of components built to fit together and look fantastic. If you want to code faster, with a smooth workflow, then you should try this template carefully developed with Django, a well-known Python Framework. **Django codebase** is crafted using a simple, modular structure that follows the best practices and provides authentication, database configuration, and deployment scripts for Docker and Gunicorn/Nginx stack. 
 
 - UI Kit: **Black Dashboard** (PRO Version)
-- Up-to-date [dependencies](./requirements.txt): **Django 3.2.6 LTS**
+- Up-to-date dependencies: **Django 3.2.6 LTS**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - Django Codebase - provided by **[App Generator](https://appseed.us/)**
 - UI-Ready app, SQLite Database, Django Native ORM

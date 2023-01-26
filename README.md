@@ -55,7 +55,7 @@
 
 <br />
 
-> Export `GITHUB_TOKEN` in the environment. The value is provided by AppSeed during purchase. 
+> Export `GITHUB_TOKEN` in the environment. The value is provided during purchase. 
 
 This is required because the project has a private REPO dependency: `github.com/app-generator/priv-django-admin-black-pro`
 

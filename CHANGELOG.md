@@ -4,7 +4,7 @@
 ### Changes
 
 - Updated Codebase
-- Latest Django Version
+- Latest **[Django](https://appseed.us/admin-dashboards/django/)** Version
 - Theme-able UI (no more hardcoded inside the project)
 - Integrate [Django Black PRO](https://github.com/app-generator/django-admin-black-pro)
   - Usable via PIP

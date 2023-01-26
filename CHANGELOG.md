@@ -7,7 +7,7 @@
 - Latest **[Django](https://appseed.us/admin-dashboards/django/)** Version
 - Theme-able UI (no more hardcoded inside the project)
 - Integrate [Django Black PRO](https://github.com/app-generator/django-admin-black-pro)
-  - Usable via PIP
+  - Usable via `PIP`
 - CI/CD included via `Render`
 
 ## [1.0.3] 2021-09-17

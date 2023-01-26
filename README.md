@@ -17,8 +17,8 @@
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
   - ✅ **All Pages** available in for ordinary users 
 - ✅ `Docker`
-- 🚀 `Deployment` 
-  - `CI/CD` flow via `Render`
+- 🚀 Deployment: `CI/CD` flow via `Render`
+  - [Django Black PRO - Go LIVE](https://www.youtube.com/watch?v=5BgutmR77F8) - `video presentation`
 
 <br />
 

@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.5] 2023-01-29
+### Changes
+
+- DOCS Update (readme). New sections:
+  - `How to customize the theme`
+  - Render deployment
+- Configure the project to use `home/templates`
+- Added `custom_footer` sample
+
 ## [1.0.4] 2023-01-26
 ### Changes
 

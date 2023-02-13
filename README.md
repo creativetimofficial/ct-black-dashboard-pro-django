@@ -142,7 +142,6 @@ The project is coded using a simple and intuitive structure presented below:
    |         |-- includes                # 
    |              |-- custom-footer.py   # Custom Footer      
    |     
-   |
    |-- requirements.txt                  # Project Dependencies
    |
    |-- env.sample                        # ENV Configuration (default values)

@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.6] 2023-06-16
+### Changes
+
+- Update Settings
+  - Fix `$ python manage.py collectstatic`
+  - Added `STATICFILES_DIRS` 
+
 ## [1.0.5] 2023-01-29
 ### Changes
 

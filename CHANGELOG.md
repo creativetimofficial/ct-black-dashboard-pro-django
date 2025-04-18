@@ -1,13 +1,56 @@
 # Change Log
 
-## [1.0.6] 2023-06-16
+## [1.0.5] 2025-04-18
 ### Changes
 
-- Update Settings
-  - Fix `$ python manage.py collectstatic`
-  - Added `STATICFILES_DIRS` 
+- Simple, Easy-to-Extend Codebase
+- [Black Dashboard](https://app-generator.dev/product/black-dashboard/) PRO Design Integration 
+- Bootstrap Styling 
+- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- Charts
+- Session-based Authentication, Password recovery
+- OAuth (GitHub & Google)
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Backup & restore DB`
+    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Manage Environment`
+    - `Manage Dependencies`
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- [Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
 
-## [1.0.5] 2023-01-29
+## [1.0.4] 2024-05-01
+### Changes
+
+- Update README (docs)
+  - SCSS Compilation Section
+
+## [1.0.3] 2024-03-04
+### Changes
+
+- Update README (docs)
+- Update Docker
+- New Apps:
+  - charts
+  - api
+  - celery
+  - file manager
+  - dark mode 
+  - i18n (internationalization) 
+
+## [1.0.2] 2023-05-03
+### Changes
+
+- Settings UPD
+  - Added Local STATIC 
+- DOCS (readme) 
+  - New Section for SCSS Compilation
+
+## [1.0.1] 2023-01-28
 ### Changes
 
 - DOCS Update (readme). New sections:
@@ -16,47 +59,9 @@
 - Configure the project to use `home/templates`
 - Added `custom_footer` sample
 
-## [1.0.4] 2023-01-26
+## [1.0.0] 2023-01-24
 ### Changes
 
-- Updated Codebase
-- Latest **[Django](https://appseed.us/admin-dashboards/django/)** Version
-- Theme-able UI (no more hardcoded inside the project)
-- Integrate [Django Theme Black](https://github.com/app-generator/django-admin-black-pro) - `PRO Version`
-  - Usable via `PIP`
+- Stable Version
+- Integrate [Django Black PRO](https://github.com/app-generator/django-admin-black-pro)
 - CI/CD included via `Render`
-
-## [1.0.3] 2021-09-17
-### Improvements
-
-- Bump Django Codebase to [v2.0.4](https://github.com/app-generator/boilerplate-code-django-dashboard/releases)
-  - Dependencies update (all packages)
-    - Use Django==3.2.6 (latest stable version)
-  - Better Code formatting
-  - Improved Files organization
-  - Optimize imports
-  - Docker Scripts Update 
-- Tooling:
-  - Gulp SASS compilation script   
-  - `Update README` - Recompile SCSS (new section)
-- Fixes: 
-  - Patch 500 Error when authenticated users access `admin` path (no slash at the end)
-  - Patch [#16](https://github.com/app-generator/boilerplate-code-django-dashboard/issues/16): Minor issue in Docker 
-
-## [1.0.2] 2021-06-17
-### Improvements
-
-- Added style to highlight errors (registration page)
-    - `core/templates/accounts/register.html`
-
-## [1.0.1] 2021-04-13
-### Improvements
-
-- UI: [Jinja Black PRO](https://github.com/app-generator/jinja-black-dashboard-pro) v1.0.2
-- Codebase: [Django Dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) v1.0.4
-
-## [1.0.0] 2020-07-22
-### Initial Release
-
-- UI Kit version - v1.1.1
-- [Codebase](https://github.com/app-generator/boilerplate-code-django-dashboard) version - v1.0.2

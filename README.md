@@ -1,24 +1,31 @@
-# [Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard,%20a%20free%20Material%20Bootstrap%204%20Admin%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2Lyat1Y%20%23bootstrap%20%23material%20%23design%20%23developers%20%23freebie%20%20via%20%40CreativeTim)
+# [Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) 
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-django.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-django/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+Premium **[Django Template](https://www.creative-tim.com/templates/django)** crafted on top of **Black Dashboard PRO**, a modern Bootstrap 5 design. Start your development with a modern Bootstrap 5 Admin template for Django. Soft UI Dashboard is built with over 70 individual components, giving you the freedom of choosing and combining. If you want to code faster, with a smooth workflow, then you should try this template carefully developed with Django, a well-known Python Framework.
 
-**Django Template** crafted on top of **[Black Dashboard PRO](https://www.creative-tim.com/product/black-dashboard-pro-django)**, a premium Bootstrap 4 design. Start your development with a modern, dark-themed Bootstrap 4 Admin template for **Django**. It features a huge number of components built to fit together and look fantastic. If you want to code faster, with a smooth workflow, then you should try this template carefully developed with **Django**, a well-known `Python Framework`. 
-
-> **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
+> NOTE: Starter provided in partnership with [App-Generator](https://app-generator.dev/), an open-source platform for developers
 
 <br />
 
 ## Features: 
 
-- ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Black](https://github.com/app-generator/django-admin-black-pro) - `PRO Version`
-- ✅ `Sections` covered by the design:
-  - ✅ **Admin section** (reserved for superusers)
-  - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
-  - ✅ **All Pages** available in for ordinary users 
-- ✅ `Docker`
-- 🚀 Deployment: `CI/CD` flow via `Render`
-  - [Django Black PRO - Go LIVE](https://www.youtube.com/watch?v=5BgutmR77F8) - `video presentation`
+- Simple, Easy-to-Extend Codebase
+- **Black Dashboard PRO** Design Integration 
+- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- Charts
+- Session-based Authentication, Password recovery
+- OAuth (GitHub & Google)
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Backup & restore DB`
+    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Manage Environment`
+    - `Manage Dependencies`
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- [Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
 
 <br />
 
@@ -43,7 +50,7 @@
 
 ## Demo
 
-> To authenticate use the default credentials ***test / PaSS_123*** or create a new user on the **registration page**.
+> To authenticate use the default credentials ***test / Pass12__*** or create a new user on the **registration page**.
 
 - **Black Dashboard PRO Django** [Login Page](https://www.creative-tim.com/live/black-dashboard-pro-django)
 
@@ -51,19 +58,7 @@
 
 ## Quick start
 
-> UNZIP the sources or clone this repository. After getting the code, open a terminal and navigate to the working directory, with product source code.
-
-<br />
-
-> Export `GITHUB_TOKEN` in the environment. The value is provided during purchase. 
-
-This is required because the project has a private REPO dependency: `github.com/app-generator/priv-django-admin-black-pro`
-
-```bash
-$ export GITHUB_TOKEN='TOKEN_HERE'  # for Linux, Mac
-$ set GITHUB_TOKEN='TOKEN_HERE'     # Windows CMD
-$ $env:GITHUB_TOKEN = 'TOKEN_HERE'  # Windows powerShell 
-```
+> UNZIP the sources (requires a purchase from the official product page)
 
 <br />
 
@@ -118,7 +113,7 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 ## Documentation
 
-The documentation for the **Black Dashboard PRO Django** is hosted at our [website](https://demos.creative-tim.com/black-dashboard-pro-django/docs/1.0/getting-started/getting-started-django.html).
+The documentation for the **Black Dashboard PRO Django** is hosted at our [website](https://app-generator.dev/docs/products/django/black-dashboard-pro/index.html).
 
 <br />
 
@@ -129,18 +124,17 @@ The project is coded using a simple and intuitive structure presented below:
 ```bash
 < PROJECT ROOT >
    |
-   |-- core/                            
+   |-- config/                            
    |    |-- settings.py                  # Project Configuration  
    |    |-- urls.py                      # Project Routing
    |
-   |-- home/
-   |    |-- views.py                     # APP Views 
-   |    |-- urls.py                      # APP Routing
-   |    |-- models.py                    # APP Models 
-   |    |-- tests.py                     # Tests  
-   |    |-- templates/                   # Theme Customisation 
-   |         |-- includes                # 
-   |              |-- custom-footer.py   # Custom Footer      
+   |-- apps/
+   |    |-- charts                        
+   |    |-- dyn_api                       
+   |    |-- dyn_dt                         
+   |    |-- pages                        
+   |    |-- file_manager                        
+   | 
    |     
    |-- requirements.txt                  # Project Dependencies
    |
@@ -149,62 +143,6 @@ The project is coded using a simple and intuitive structure presented below:
    |
    |-- ************************************************************************
 ```
-
-<br />
-
-## How to Customize 
-
-When a template file is loaded in the controller, `Django` scans all template directories starting from the ones defined by the user, and returns the first match or an error in case the template is not found. 
-The theme used to style this starter provides the following files: 
-
-```bash
-< LIBRARY_ROOT >                     # This exists in ENV: LIB/admin_black_pro
-   |
-   |-- templates/                    # Root Templates Folder 
-   |    |          
-   |    |-- accounts/       
-   |    |    |-- login.html          # Sign IN Page
-   |    |    |-- register.html       # Sign UP Page
-   |    |
-   |    |-- includes/       
-   |    |    |-- footer.html         # Footer component
-   |    |    |-- sidebar.html        # Sidebar component
-   |    |    |-- navigation.html     # Navigation Bar
-   |    |    |-- scripts.html        # Scripts Component
-   |    |
-   |    |-- layouts/       
-   |    |    |-- base.html           # Masterpage
-   |    |    |-- base-auth.html      # Masterpage for Auth Pages
-   |    |
-   |    |-- pages/       
-   |         |-- index.html          # Index Page (presentation)
-   |         |-- settings.html       # Settings  Page
-   |         |-- dashboard.html      # Dashboard page
-   |         |-- *.html              # All other pages
-   |    
-   |-- ************************************************************************
-```
-
-When the project requires customization, we need to copy the original file that needs an update (from the virtual environment) and place it in the template folder using the same path. 
-
-> For instance, if we want to **customize the footer.html** these are the steps:
-
-- ✅ `Step 1`: create the `templates` DIRECTORY inside the `home` app
-- ✅ `Step 2`: configure the project to use this new template directory
-  - `core/settings.py` TEMPLATES section
-- ✅ `Step 3`: copy the `footer.html` from the original location (inside your ENV) and save it to the `home/templates` DIR
-  - Source PATH: `<YOUR_ENV>/LIB/admin_black_pro/includes/footer.html`
-  - Destination PATH: `<PROJECT_ROOT>home/templates/includes/footer.html`
-
-> To speed up all these steps, the **codebase is already configured** (`Steps 1, and 2`) and a `custom footer` can be found at this location:
-
-`home/templates/includes/custom_footer.html` 
-
-By default, this file is unused because the `theme` expects `footer.html` (without the `custom_` prefix). 
-
-In order to use it, simply rename it to `footer.html`. Like this, the default version shipped in the library is ignored by Django. 
-
-In a similar way, all other files and components can be customized easily.
 
 <br />
 
@@ -242,17 +180,20 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the **Black Dashboard PRO Django**. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the **Soft UI Dashboard Django**. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the **Black Dashboard PRO Django**. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
+1. Make sure that you are using the latest version of the **Soft UI Dashboard Django**. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser-specific, so specifying in what browser you encountered the issue might help.
 
 <br />
 
-## Technical Support or Questions
+## Support
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
+Being a product that is actively supported and improved, feel free to contact us using these funnels: 
+
+- **Creative-Tim** [Discord](https://discord.gg/haJ7ErsNY3) Server - for general product assistance and UI/UX
+- **App Generator** [Discord](https://discord.gg/fZC6hup) Server - for **Django specific questions** and assistance. 
 
 <br />
 
@@ -282,4 +223,4 @@ If you have questions or need help integrating the product please [contact us](h
 <br />
 
 ---
-[Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) - Provided by [Creative Tim](https://www.creative-tim.com/) and [AppSeed](https://appseed.us).
+[Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) - Provided by [Creative Tim](https://www.creative-tim.com/) and [App-Generator](https://app-generator.dev/).
